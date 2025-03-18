@@ -15,8 +15,8 @@ Este projeto foi desenvolvido para o challenge da Alura, o código-fonte foi dis
 
 <div align="center">
   <img src="assets/telaInicial2.png" width="900" height="470" style="display: inline-block;">
-  <img src="assets/telaInicial.png" width="415" height="300" style="display: inline-block; margin-right: 10px;">
-  <img src="assets/sorteado.png" width="415" height="300" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/telaInicial.png" width="402" height="300" style="display: inline-block; margin-right: 10px;">
+  <img src="assets/sorteado.png" width="402" height="300" style="display: inline-block; margin-right: 10px;">
 </div>
 
 
